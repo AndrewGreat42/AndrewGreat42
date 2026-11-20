@@ -19,8 +19,6 @@ I have practical experience contributing to the
 backend side of professional web projects and
 collaborating with a frontend developer.
 
-Professional project code is not publicly available
-due to confidentiality requirements.
 
 ## Featured Project
 
